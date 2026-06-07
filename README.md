@@ -49,3 +49,8 @@ Key insight: XGBoost's **regularization (λ)** prevents both overfitting (too co
 ---
 
 ## 📊 Model Performance
+R² Score : 0.9944
+MAE      : 0.77 points  (on a 0–100 scale)
+Dataset  : 16,860 outfield players — FIFA 22
+Features : 37 player attributes
+
