@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# ⚽ FIFA Ratings Lie — XGBoost Se Pakdo
+# ⚽ FIFA Ratings Lie 
 
 > *"EA Sports gives Adama Traoré a 79 rating because of his pace.  
 > XGBoost disagrees — and has the data to prove it."*
